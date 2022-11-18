@@ -1,0 +1,4 @@
+#Este archivos es para ignorar ciertas carpetas
+#En este caso ignoraremos las carpetas node_modules y npm-debug.log
+node_modules
+npm-debug.log
